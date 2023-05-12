@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">PlacementPrepApp</string>
+    <string name="started_title">Hello You!</string>
+    <string name="started_sub_title">
+        Nice to meet you, come join our community!
+        <br><b>Login</b> if you already have an account.</br>
+        <br><b>Register</b> to get started with the app.</br>
+    </string>
+    <string name="illustration_image">Illustration Image</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="login_title">Login to app</string>
+    <string name="login_sub_title">
+        <font color="#00C9B8"><b>Login</b></font> if you already have an account.
+    </string>
+    <string name="login_email">Your Email</string>
+    <string name="login_password">Your Password</string>
+    <string name="login_forget_pw">Forgot Password?</string>
+    <string name="login_havent_account">
+        I don\'t have an account <font color="#00C9B8"><b>Register</b></font>
+    </string>
+    <string name="register_title">Create an account</string>
+    <string name="register_sub_title">
+        <font color="#00C9B8"><b>Register</b></font> to get started with the app.
+    </string>
+    <string name="register_fullname">Your Full name</string>
+    <string name="register_email">Your Email</string>
+    <string name="register_username">Your Username</string>
+    <string name="register_confirm_password">Confirm Password</string>
+    <string name="register_have_account">
+        I already have an account <font color="#00C9B8"><b>Login</b></font>
+    </string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="home_title">Welcome! Buddy</string>
+    <string name="reset_pw_title">Reset your Password</string>
+    <string name="reset_pw_sub_title">
+        <font colror="#00C9B8">Reset Password</font>, if you forgot your password.
+    </string>
+    <string name="btn_reset_pw">Reset Password</string>
+    <string name="back_to_login">
+        Back to <font color="#00C9B8"><b>Login</b></font>
+    </string>
+    <string name="btn_zoho">ZOHO</string>
+    <string name="btn_choosecompany">Choose Company</string>
+    <string name="btn_experience">Share your Experience</string>
+    <string name="zoho_title">Choose any of the below options to continue...</string>
+    <string name="btn_aptitude">Aptitude</string>
+    <string name="btn_hrqns">HR Questions</string>
+    <string name="choose_title">Choose any of the below Companies to continue...</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_choose">Choose Company</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_setting">Settings</string>
+    <string name="menu_experience">Share your Experience</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="name">Name</string>
+    <string name="message">Message</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="done">Done</string>
+    <string name="check">Check</string>
+</resources>
